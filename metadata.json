@@ -1,0 +1,5 @@
+{
+  "name": "MRO Sales Agent",
+  "description": "An AI-powered sales assistant for MRO (Maintenance, Repair, and Operations) professionals, featuring customer insights, automated tasks, and skill extraction.",
+  "requestFramePermissions": []
+}
